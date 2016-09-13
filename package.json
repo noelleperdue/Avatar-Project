@@ -1,0 +1,6 @@
+{
+  "name": "avatar-project",
+  "dependencies": {
+    "dotenv": "^2.0.0"
+  }
+}
